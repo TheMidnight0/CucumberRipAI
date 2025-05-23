@@ -1,3 +1,7 @@
+# Project .gitignores
+dataset/data/
+dataset/labels/*.cache
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
